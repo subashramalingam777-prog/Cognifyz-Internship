@@ -166,7 +166,7 @@ The project uses the restaurant dataset provided by **Cognifyz Technologies** fo
 ## 1 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/subashramalingam777-prog/Cognifyz-Internship
 ```
 
 ## 2 Install dependencies
