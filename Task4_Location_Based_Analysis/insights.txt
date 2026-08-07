@@ -1,0 +1,3 @@
+Busiest city by restaurant count: New Delhi (5240 restaurants).
+Among cities with 20+ restaurants, highest average rating: London.
+Among cities with 20+ restaurants, highest average cost for two: Pune.

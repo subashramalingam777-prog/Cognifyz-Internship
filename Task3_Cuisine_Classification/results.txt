@@ -1,0 +1,20 @@
+Logistic Regression: Accuracy=0.4505, Precision=0.2876, Recall=0.4505
+Random Forest: Accuracy=0.4262, Precision=0.3783, Recall=0.4262
+
+Random Forest classification report:
+              precision    recall  f1-score   support
+
+    American       0.60      0.57      0.59        56
+      Bakery       0.26      0.17      0.21       124
+        Cafe       0.36      0.31      0.33       123
+     Chinese       0.16      0.10      0.12       171
+ Continental       0.27      0.17      0.21        47
+   Fast Food       0.23      0.15      0.18       135
+      Mithai       0.30      0.27      0.28        49
+North Indian       0.53      0.72      0.61       599
+South Indian       0.14      0.08      0.10        52
+ Street Food       0.25      0.23      0.24        47
+
+    accuracy                           0.43      1403
+   macro avg       0.31      0.28      0.29      1403
+weighted avg       0.38      0.43      0.39      1403

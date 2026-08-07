@@ -1,0 +1,2 @@
+Linear Regression: MSE=1.1231, R2=0.2633
+Decision Tree Regression: MSE=0.1239, R2=0.9187
